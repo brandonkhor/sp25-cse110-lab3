@@ -1,10 +1,10 @@
 
 
-
+/* This is to trigger pull request */
 
 :root {
-  --main-bg-color: #fdf6e3; /* light cream background */
-  --main-text-color: #002b36; /* dark blue text */
+  --main-bg-color: #fdf6e3;
+  --main-text-color: #002b36;
 }
  body {
   background-color: var(--main-bg-color, white); /* fallback: white */
@@ -20,10 +20,10 @@ h1 {
 
 }
 h2 {
-  color: #3498db; /* blue */
-  padding: 10px;     /* 10 pixels padding */
-  border: 0.2cm solid #999; /* border with 0.2cm width */
-  margin-bottom: 0.5in; /* half an inch margin */
+  color: #3498db; 
+  padding: 10px;    
+  border: 0.2cm solid #999; 
+  margin-bottom: 0.5in; 
   text-align: center;
 
 
@@ -62,7 +62,7 @@ div {
 }
 footer {
   background-color: color-mix(in srgb, red 50%, blue 50%); /* purple */
-  margin: 10px 20px 15px 25px; /* top, right, bottom, left */
+  margin: 10px 20px 15px 25px;
   padding: 5px 10px 5px 10px;
   display: inline;
   position: absolute;
