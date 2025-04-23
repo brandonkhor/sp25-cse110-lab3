@@ -118,5 +118,46 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+#special {
+  color: crimson;
+  font-weight: bold;
+}
 
+* {
+  box-sizing: border-box;
+}
 
+input[type="checkbox"] {
+  accent-color: hotpink;
+}
+
+h1, h2 {
+  text-transform: uppercase;
+}
+
+section p {
+  line-height: 1.6;
+}
+
+h2 ~ p {
+  font-family: monospace;
+}
+
+label + input {
+  border: 10px solid gray;
+}
+
+div.agenda {
+  border-left: 4px solid #333;
+}
+
+section:has(img) {
+  border: 10px solid red;
+}
+
+footer {
+  p {
+    color: gray;
+    font-size: 0.9rem;
+  }
+}
