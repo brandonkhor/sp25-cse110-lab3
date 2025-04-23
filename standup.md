@@ -14,8 +14,8 @@ Brandon Khor, Playboi Carti
 - [ ] Listen to all Carti leaks
 
 ### Issues so far:
-Carti has not dropped BABY BOI after proclaiming that it was "ON THE WAY"
-Carti did not do Uzi justice on his newest album.
+* Carti has not dropped BABY BOI after proclaiming that it was "ON THE WAY"
+* Carti did not do Uzi justice on his newest album.
 
 ---
 
